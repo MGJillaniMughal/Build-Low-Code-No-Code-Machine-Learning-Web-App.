@@ -51,7 +51,7 @@ The app expects the input data in CSV format. The target variable should be a si
 
 ## Credits
 
-This app was created by [Jillani SoftTech].
+This app was created by Jillani SoftTech.
 
 
 
